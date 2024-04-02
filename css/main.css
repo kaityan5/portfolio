@@ -27,7 +27,7 @@ body{
 }
 
 .header{
-	height: 350px;
+	height: 1000px;
 	background-color: black;
 	background-image: url(../img/Profile.jpeg);
 	background-size: cover;
